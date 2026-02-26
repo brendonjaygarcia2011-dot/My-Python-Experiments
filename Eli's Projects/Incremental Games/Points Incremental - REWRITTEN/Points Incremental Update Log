@@ -1,0 +1,34 @@
+Update 0.01: 'the absolutely nothing update'; Finished: 2/18/26
+BIG ADDITIONS:
+    -Added Points
+    -Added the Base Structure:
+        -Added 'processing...' for points
+        -Added a basic input as a menu for getting points or going to the shop
+DESCRIPTION:
+    -to be honest this has got to be the most basic update ever and yes, no upgrades yet
+ENDGAME:
+    -5 points
+
+Update 0.1: 'upgrades, upgrades, upgrades!'; Finished: 2/20/26
+BIG ADDITIONS:
+    -A single upgrade (in two days)
+ADDITIONS:
+    -Added something that tells you that you can buy an upgrade
+    -Added a list of upgrades you can buy
+REWORKS/BUGS:
+    -Reworked the ANSI codes so the text doesn't fill the terminal up
+    -Fixed a bug where it displays an error message if you go to the upgrades menu
+DESCRIPTION:
+    -Now you get to enjoy a whopping 50 seconds of playtime! Yea that's about it but try the original points incremental
+     if you get bored of waiting of an update
+ENDGAME:
+    -10 points
+
+Update 0.101: 'bugfixes galore I'; Finished 2/20/26
+REWORKS/BUGFIXES:
+    -Reworked some ANSI codes for the other two 'can't buy' notices
+    -Reworked a part of the game so when you don't input an actual tab it just uses some ANSI codes to reduce the
+    terminal test
+    -Reworked and added two functions to cut down on lines of code
+    -Fixed a bug where it shows that you can still buy an upgrade even after you bought it
+    -Fixed a bug where the upgrades can buy can go in the negatives
